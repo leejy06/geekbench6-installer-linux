@@ -18,7 +18,7 @@ sudo bash install-geekbench6.sh
 
 ## Disclaimer
 
-This project is an unofficial, community-created installation script.
+This project is an unofficial, community-created installation script designed for ease of use.
 
 I do not own Geekbench or any associated trademarks, software, binaries,
 logos, or other intellectual property. Geekbench is proprietary software
