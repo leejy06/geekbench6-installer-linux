@@ -1,5 +1,5 @@
 # geekbench6-installer-linux
-One click installer for benchmarking using Geekbench 6.
+One-click Geekbench 6 installer for Ubuntu and Debian x86_64 systems.
 
 Current GB6 version: **6.7.1**
 
