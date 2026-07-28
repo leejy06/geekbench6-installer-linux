@@ -36,3 +36,4 @@ https://www.primatelabs.com/legal/eula-v6.html
 
 Any license included in this repository applies only to the original installer
 script and documentation—not to Geekbench itself.
+For any inquiries please send a mail to mail@leejy.xyz. 
