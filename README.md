@@ -1,6 +1,7 @@
 # geekbench6-installer-linux
-One click installer for benchmarking using Geekbench 6
-Current GB6 version: 6.7.1
+One click installer for benchmarking using Geekbench 6.
+
+Current GB6 version: **6.7.1**
 
 ## Installation
 
